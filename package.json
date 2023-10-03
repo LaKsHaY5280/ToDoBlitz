@@ -9,9 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "lucide-react": "^0.279.0",
+    "mongodb-client-encryption": "^2.9.0",
+    "mongoose": "^7.5.3",
+    "next": "latest",
     "react": "latest",
-    "react-dom": "latest",
-    "next": "latest"
+    "react-cookie": "^6.1.1",
+    "react-dom": "latest"
   },
   "devDependencies": {
     "autoprefixer": "latest",
